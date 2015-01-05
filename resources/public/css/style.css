@@ -1,0 +1,7 @@
+h1 {
+  text-decoration: underline;
+}
+
+div.search input {
+  width: 500px;
+}
